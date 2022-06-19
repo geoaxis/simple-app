@@ -1,0 +1,7 @@
+type Quote @model @auth(rules: [{allow: public}]) {
+  id: ID!
+  quote: String!
+  attribution: String!
+  dateAdded: AWSDateTime
+  dateModified: AWSDateTime
+}

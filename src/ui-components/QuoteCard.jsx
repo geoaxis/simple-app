@@ -14,6 +14,8 @@ export default function QuoteCard(props) {
     <Flex
       gap="10px"
       direction="column"
+      width="441px"
+      height="928px"
       position="relative"
       padding="82px 81px 82px 81px"
       backgroundColor="rgba(255,255,255,1)"
@@ -53,6 +55,8 @@ export default function QuoteCard(props) {
         display="flex"
         direction="column"
         justifyContent="flex-start"
+        width="248px"
+        height="119px"
         shrink="0"
         position="relative"
         padding="0px 0px 0px 0px"

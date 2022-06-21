@@ -27,6 +27,7 @@ export { default as TallCard } from "./TallCard";
 export { default as QuoteCard } from "./QuoteCard";
 export { default as MarketingFooter } from "./MarketingFooter";
 export { default as SocialPost } from "./SocialPost";
+export { default as Logout } from "./Logout";
 export { default as HeroLayout1 } from "./HeroLayout1";
 export { default as ActionCard } from "./ActionCard";
 export { default as ItemCard } from "./ItemCard";
